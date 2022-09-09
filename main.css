@@ -121,6 +121,7 @@
     width: 90%;
     padding: 5px 20px 5px 20px;
     margin-bottom: 20px;
+    color: white;
   }
 
   .search > button {
@@ -221,14 +222,15 @@
     height: 300px;
     object-fit: contain;
     position: relative;
+    top: -5rem;
     left: 2%;
   }
   .videoPlay1 {
     object-fit: contain;
     z-index: 1;
-
     position: relative;
     left: 80px;
+    top: -25rem;
   }
 }
 
@@ -322,9 +324,11 @@
 
   .container3__col1 {
     position: relative;
-    top: 30%;
+    top: 35%;
     padding-right: 0;
   }
+
+  
 
   .container3__col1 > img {
     position: relative;
@@ -335,7 +339,7 @@
 
   .container3__giff {
     position: relative;
-    left: -10%;
+    left: -7%;
     top: -10%;
   }
 
@@ -346,7 +350,7 @@
 
   .container3__col2 {
     position: relative;
-    top: -65%;
+    top: -70%;
   }
 
   .container3__col2 > h4 {
